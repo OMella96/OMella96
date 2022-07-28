@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OMella96 a recently graduated student, looking for learning with new challenges.
 - 👀 I’m interested in new technologies, VR and IA.
 - 🌱 I’m currently learning C#.
-- 💞️ I’m looking to collaborate on developt
+- 💞️ I’m looking to collaborate on develop in challenges to make me better.
 - 📫 contact osv.mella96@gmail.com
 
 <!---
